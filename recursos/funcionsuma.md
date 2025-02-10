@@ -8,4 +8,4 @@ Ejemplo de salida funcion + funcionflecha
 
 Ejemplo de funcion con parametros
 
-![alt text](image-3.png)
+![alt text](image-4.png)
