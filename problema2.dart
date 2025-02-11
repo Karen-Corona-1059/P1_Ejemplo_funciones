@@ -1,5 +1,6 @@
 import 'dart:io';
 
+//karen Corona Mat:22308051281059
 void main() {
   // Capturar la lista de números decimales
   List<double> numeros = capturarDatos();
@@ -29,6 +30,7 @@ List<double> capturarDatos() {
 
 // Función para mostrar los elementos de la lista
 void mostrarElementos(List<double> lista) {
+  print("Karen Corona Mat:22308051281059");
   print("\nElementos de la lista:");
   for (int i = 0; i < lista.length; i++) {
     print("Elemento ${i + 1}: ${lista[i]}");
